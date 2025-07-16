@@ -1,0 +1,300 @@
+.design,
+.design * {
+  box-sizing: border-box;
+}
+.design {
+  height: 1989px;
+  position: relative;
+}
+.main-design {
+  background: #ededed;
+  width: 375px;
+  height: 1767px;
+  position: absolute;
+  left: 0px;
+  top: 222px;
+  overflow: hidden;
+}
+.post-content-3 {
+  background: #ffffff;
+  width: 375px;
+  height: 560px;
+  position: absolute;
+  left: 0px;
+  top: 1207px;
+}
+.body {
+  width: 570px;
+  position: absolute;
+  inset: 0;
+}
+.username-caption {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 13px;
+  top: 513px;
+  width: 346px;
+}
+.username-caption-span {
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-weight: 700;
+}
+.username-caption-span2 {
+  font-family: "SourceSansPro-Regular", sans-serif;
+}
+.like-count {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 13px;
+  top: 485px;
+  width: 347px;
+}
+.icons {
+  width: 104.34px;
+  height: 22.13px;
+  position: absolute;
+  left: 10px;
+  top: 451px;
+  overflow: visible;
+}
+.post-image {
+  width: 375px;
+  height: 375px;
+  position: absolute;
+  left: 0px;
+  top: 55px;
+  object-fit: cover;
+}
+.user-info {
+  position: absolute;
+  inset: 0;
+}
+.user-full-name {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 51px;
+  top: 11px;
+  width: 306px;
+}
+.location-text {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSansPro-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 51px;
+  top: 27px;
+  width: 306px;
+}
+.avatar {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  overflow: visible;
+}
+.post-content-2 {
+  background: #ffffff;
+  width: 375px;
+  height: 545px;
+  position: absolute;
+  left: 0px;
+  top: 637px;
+}
+.username-caption-span {
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-weight: 700;
+}
+.username-caption-span2 {
+  font-family: "SourceSansPro-Regular", sans-serif;
+}
+.like-count2 {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 13px;
+  top: 485px;
+  width: 344px;
+}
+.icons2 {
+  width: 104.34px;
+  height: 22.13px;
+  position: absolute;
+  left: 10px;
+  top: 451px;
+  overflow: visible;
+}
+.avatar2 {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  overflow: visible;
+}
+.post-content-1 {
+  background: #ffffff;
+  width: 375px;
+  height: 545px;
+  position: absolute;
+  left: 0px;
+  top: 67px;
+}
+.username-caption2 {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 13px;
+  top: 513px;
+  width: 343px;
+}
+.username-caption-2-span {
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-weight: 700;
+}
+.username-caption-2-span2 {
+  font-family: "SourceSansPro-Regular", sans-serif;
+}
+.like-count3 {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 13px;
+  top: 485px;
+  width: 343px;
+}
+.icons3 {
+  display: inline-block;
+  width: 35px;
+  height: 3%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 10px;
+  top: 451px;
+  overflow: visible;
+}
+
+.icons3:hover,
+.icons3:focus {
+  color: red;
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+}
+.user-full-name2 {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 51px;
+  top: 11px;
+  width: 307px;
+}
+.location-text2 {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSansPro-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 51px;
+  top: 27px;
+  width: 307px;
+}
+.avatar3 {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  overflow: visible;
+}
+.header {
+  width: 275px;
+  height: 67px;
+  position: absolute;
+  left: 0px;
+  padding-right: 8px;
+  top: 2px;
+  overflow: visible;
+  padding: auto 2px;
+}
+.header-1 {
+  width: 100px;
+  height: 57px;
+  position: absolute;
+  left: 300px;
+  top: 5px;
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.design-notes {
+  width: 728px;
+  height: 138px;
+  position: static;
+}
+.design2 {
+  color: #252525;
+  text-align: left;
+  font-family: "Karla-ExtraBold", sans-serif;
+  font-size: 60px;
+  line-height: 50px;
+  font-weight: 800;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+}
+.font-used-source-sans-pro {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 90px;
+  width: 728px;
+}
+.font-used-source-sans-pro-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+}
+.font-used-source-sans-pro-span2 {
+  color: #000000;
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-weight: 700;
+}
+.font-used-source-sans-pro-span3 {
+  color: #3959ff;
+  font-family: "SourceSansPro-Bold", sans-serif;
+  font-weight: 700;
+  text-decoration: underline;
+}
